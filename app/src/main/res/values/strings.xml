@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Hospital request</string>
+    <string name="equipment_list">Equipment List</string>
+    <string name="equipment">Equipment</string>
+    <string name="quantity">Quantity</string>
+    <string name="request_now">Request Now</string>
+    <string name="brand">Brand</string>
+    <string name="model">Model</string>
+    <string name="quan">Quan</string>
+</resources>
